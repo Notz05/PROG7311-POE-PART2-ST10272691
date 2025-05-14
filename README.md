@@ -93,7 +93,7 @@ Update-Database
 ## 5. Run the Application
 Press F5 or click the Run button in Visual Studio.
 
-References
+## References
 Microsoft Docs. (2024). ASP.NET Core MVC
 
 Entity Framework Core Docs. (2024). EF Core Overview
